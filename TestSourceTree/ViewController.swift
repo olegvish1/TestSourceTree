@@ -14,6 +14,12 @@ class ViewController: UIViewController {
 
         view.backgroundColor = .green
         printMethod()
+
+        oneMoreMethod()
+    }
+
+    func oneMoreMethod() {
+        // do anything
     }
 
 
