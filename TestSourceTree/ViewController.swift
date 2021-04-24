@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var boolVar = false
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
